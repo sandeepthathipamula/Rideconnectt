@@ -1,0 +1,2 @@
+ cd D:\RideConnect\backend\venv
+ python -m uvicorn app.main:app --reload
